@@ -1,0 +1,20 @@
+.container{
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    margin-right: 10px;
+
+}
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+.snackbarOk{
+    background: #77DD77;
+}
+.snackbarErr{
+    background: #E57373;
+}
+
+.formularioRegistro table tbody tr:last-child {
+    background: #e6e6e6;
+    font-weight: 500;
+}
